@@ -1,3 +1,0 @@
-New-Item -ItemType Directory -Path C:\CursoDocker\kubernetes -Force
-Set-Location C:\CursoDocker\kubernetes
-code .
